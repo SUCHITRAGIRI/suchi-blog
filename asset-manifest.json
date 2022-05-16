@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SUCHITRAGIRI/suchi-blog/static/css/main.73f21a98.chunk.css",
+    "main.js": "/SUCHITRAGIRI/suchi-blog/static/js/main.7617bbf6.chunk.js",
+    "main.js.map": "/SUCHITRAGIRI/suchi-blog/static/js/main.7617bbf6.chunk.js.map",
+    "runtime-main.js": "/SUCHITRAGIRI/suchi-blog/static/js/runtime-main.ae0a4df4.js",
+    "runtime-main.js.map": "/SUCHITRAGIRI/suchi-blog/static/js/runtime-main.ae0a4df4.js.map",
+    "static/js/2.77e2b2c3.chunk.js": "/SUCHITRAGIRI/suchi-blog/static/js/2.77e2b2c3.chunk.js",
+    "static/js/2.77e2b2c3.chunk.js.map": "/SUCHITRAGIRI/suchi-blog/static/js/2.77e2b2c3.chunk.js.map",
+    "index.html": "/SUCHITRAGIRI/suchi-blog/index.html",
+    "static/css/main.73f21a98.chunk.css.map": "/SUCHITRAGIRI/suchi-blog/static/css/main.73f21a98.chunk.css.map",
+    "static/js/2.77e2b2c3.chunk.js.LICENSE.txt": "/SUCHITRAGIRI/suchi-blog/static/js/2.77e2b2c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae0a4df4.js",
+    "static/js/2.77e2b2c3.chunk.js",
+    "static/css/main.73f21a98.chunk.css",
+    "static/js/main.7617bbf6.chunk.js"
+  ]
+}
