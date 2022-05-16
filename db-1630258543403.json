@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "The website Blog",
+      "body": "with react",
+      "author": "Suchitra",
+      "id": 1
+    },
+    {
+      "title": "The Backend",
+      "body": "GatsBy...",
+      "author": "Rinku",
+      "id": 2
+    }
+  ]
+}

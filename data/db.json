@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Desktop Environment In Linux",
+      "body": "Do you want to use Linux but find difficulty with commands?\nSad\nSo, you came in the right place... In this article, I am going to explain about How can you use Linux in easy way without using any single command!\n\nHere, I will suggest you that it would be great if you go through below 👇 article 1st before starting this.",
+      "author": "Suchitra",
+      "id": 1
+    },
+    {
+      "title": "Complete Roadmap to Learn Data Structure and Algorithms 🐱‍🏍👨‍💻👩‍💻",
+      "body": "The very 1st step you have to do is, choose a programming language, either Java or C++ (or it's up to you which language you want to learn).\n\n🎯 Now, start learning the language 1st\nLike…\n📌 Basic Syntax\n📌 Data Types\n📌 Operators, Variables, functions\n📌 Conditional Statement, loops\n📌 And the most important OOP(Object-Oriented Programming)\n\n",
+      "author": "Suchitra",
+      "id": 2
+    },
+    {
+      "title": "Just Try",
+      "body": "ndkmnvhvmofmofkovfgfoir9gj gjorinijfierjf jefjehfjiewjfwejfiewfuweifjwefwefjeij ejfweoekwemf e ewujrqwi",
+      "author": "Suchitra",
+      "id": 3
+    }
+  ]
+}
